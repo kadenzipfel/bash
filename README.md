@@ -1,6 +1,9 @@
-## Commands
+## Setup
 
-Add aliases from aliases.txt to your `.bash_profile`/`.zshrc`
+- Update config.sh
+- Add aliases from aliases.txt to your `.bash_profile`/`.zshrc`
+
+## Commands
 
 #### `push "message" branch`
 
