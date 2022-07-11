@@ -8,3 +8,7 @@
 #### `push "message" branch`
 
 - Pushes all current changes with `"message"` to `branch`
+
+#### `clone user/repo`
+
+- Clones repo `username/repo` to `CODE_DIR` and opens in vscode
