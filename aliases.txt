@@ -1,0 +1,1 @@
+alias push="bash ~/<path to scripts>/scripts/push.sh"
